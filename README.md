@@ -4,7 +4,7 @@
 
 Atualmente estou cursando **Engenharia de Software na Estácio** e estudando desenvolvimento web através do **DevClub**.
 
-🚀 Meu foco principal é evoluir como desenvolvedor, criando projetos práticos e aprendendo cada vez mais sobre programação e desenvolvimento de aplicações.
+Meu foco principal é evoluir como desenvolvedor, criando projetos práticos e aprendendo cada vez mais sobre programação e desenvolvimento de aplicações.
 
 
 ## 💻 Tecnologias
