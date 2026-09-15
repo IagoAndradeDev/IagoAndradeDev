@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Olá, eu sou Iago Andrade!
 
-<!--
-**IagoAndradeDev/IagoAndradeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software e desenvolvedor em formação.
 
-Here are some ideas to get you started:
+Atualmente estou cursando **Engenharia de Software na Estácio** e estudando desenvolvimento web através do **DevClub**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Meu foco principal é evoluir como desenvolvedor, criando projetos práticos e aprendendo cada vez mais sobre programação e desenvolvimento de aplicações.
+
+---
+
+## 💻 Tecnologias
+
+### Atualmente estudando
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=python" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40px"/>
+</div>
+---
+
+## 📚 Formação
+
+🎓 **Engenharia de Software** — Estácio
+
+💻 **Desenvolvimento Full Stack** — DevClub
+
+---
+
+## 🚀 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante minha formação, estudos e experiências práticas.
+
+- Projetos de HTML, CSS e JavaScript
+- Exercícios e projetos da faculdade
+- Projetos desenvolvidos durante o DevClub
+- Projetos pessoais
+
+---
+
+## 📈 Objetivo
+
+Meu objetivo é me tornar um **desenvolvedor de software**, evoluindo constantemente através de estudos, projetos e experiências práticas.
+
+---
+## 🌐 Conecte-se comigo
+
+## 📫 Contato
+📧 Email: iagoalv19@gmail.com
+
+<a href="https://www.linkedin.com/in/iagoandradedev/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
+</a>
