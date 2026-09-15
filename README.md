@@ -47,10 +47,9 @@ Meu objetivo é me tornar um **desenvolvedor de software**, evoluindo constantem
 <a href="https://www.linkedin.com/in/iagoandradedev/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="30px"/>
 </a>
-&nbsp; LinkedIn
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/iagopsico/">
   <img src="https://skillicons.dev/icons?i=instagram" width="30px"/>
 </a>
-&nbsp; Instagram
+
 
