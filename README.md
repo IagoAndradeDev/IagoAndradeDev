@@ -6,7 +6,6 @@ Atualmente estou cursando **Engenharia de Software na Estácio** e estudando des
 
 🚀 Meu foco principal é evoluir como desenvolvedor, criando projetos práticos e aprendendo cada vez mais sobre programação e desenvolvimento de aplicações.
 
----
 
 ## 💻 Tecnologias
 
@@ -20,7 +19,7 @@ Atualmente estou cursando **Engenharia de Software na Estácio** e estudando des
   <img src="https://skillicons.dev/icons?i=git" width="40px"/>
   <img src="https://skillicons.dev/icons?i=github" width="40px"/>
 </div>
----
+
 
 ## 📚 Formação
 
@@ -28,7 +27,6 @@ Atualmente estou cursando **Engenharia de Software na Estácio** e estudando des
 
 💻 **Desenvolvimento Full Stack** — DevClub
 
----
 
 ## 🚀 Projetos
 
@@ -39,16 +37,14 @@ Aqui você encontrará projetos desenvolvidos durante minha formação, estudos 
 - Projetos desenvolvidos durante o DevClub
 - Projetos pessoais
 
----
 
 ## 📈 Objetivo
 
 Meu objetivo é me tornar um **desenvolvedor de software**, evoluindo constantemente através de estudos, projetos e experiências práticas.
 
----
 ## 🌐 Conecte-se comigo
 
-## 📫 Contato
+# 📫 Contato
 📧 Email: iagoalv19@gmail.com
 
 <a href="https://www.linkedin.com/in/iagoandradedev/">
