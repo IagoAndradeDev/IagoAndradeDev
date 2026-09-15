@@ -45,9 +45,12 @@ Meu objetivo é me tornar um **desenvolvedor de software**, evoluindo constantem
 
 ## 🌐 Conecte-se comigo
 
-<a href="mailto:iagoalv19@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
-</a>
+<img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
+
+📧 **Gmail:** 
+iagoalv19@gmail.com
+
+💼 **LinkedIn:**
 
 <a href="https://www.linkedin.com/in/iagoandradedev/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
