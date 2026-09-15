@@ -10,6 +10,7 @@ Meu foco principal é evoluir como desenvolvedor, criando projetos práticos e a
 ## 💻 Tecnologias
 
 ### Atualmente estudando
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github)](https://skillicons.dev)
 
 <div>
   <img src="https://skillicons.dev/icons?i=html" width="40px"/>
@@ -44,8 +45,9 @@ Meu objetivo é me tornar um **desenvolvedor de software**, evoluindo constantem
 
 ## 🌐 Conecte-se comigo
 
-# 📫 Contato
-📧 Email: iagoalv19@gmail.com
+<a href="mailto:iagoalv19@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
+</a>
 
 <a href="https://www.linkedin.com/in/iagoandradedev/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
